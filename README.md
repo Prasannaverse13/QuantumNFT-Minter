@@ -1,12 +1,5 @@
 # NFT Mint using API3's Quantum RNG
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
- >Mint an NFT for your character utilizing API3 QRNG to set random attributes for it (strength, intelligence, mana and experience).
-
-<hr>
-
-
 ## Installation
 
 
